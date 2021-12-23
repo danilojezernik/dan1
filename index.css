@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&display=swap');
+
+body {
+    background-color: #ffffe0;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+table {
+    text-align: center;
+}
+
+#zunanja {
+    margin-top: 30px;
+}
+
+#notranja {
+    background-color: white;
+    -webkit-box-shadow: 10px 11px 29px 0px rgba(0,0,0,0.81);
+    box-shadow: 10px 11px 29px 0px rgba(0,0,0,0.81);
+}
+
+a {
+    text-decoration: none;
+    color: brown;
+    font-size: 30px;
+    background-color: cadetblue;
+    border-radius: 20px;
+    padding: 5px;
+    position: relative;
+    top: -20px;
+}
+
+#galerija img {
+    margin: 5px;
+    border-radius: 5px;
+}
+
+form {
+    text-align: left;
+    padding: 20px;
+    max-width: 300px;
+}
+
+#btn {
+    width: 100%;
+    padding: 5px;
+    font-size: 20px;
+}
+
+input {
+    width: 100%;
+}
